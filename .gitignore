@@ -5,7 +5,6 @@
 *.pydevproject
 .project
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
@@ -28,6 +27,17 @@ local.properties
 # PDT-specific
 .buildpath
 
+#################
+## Delphi
+#################
+
+*.pas
+*.ini
+*.cfg
+*.dof
+*.dpr
+*.dpk
+*.bpg
 
 #################
 ## Visual Studio

@@ -1,0 +1,32 @@
+1 VERSIONINFO
+FILEFLAGSMASK 0x3fL
+FILEFLAGS 0x0L
+FILEOS 0x4L
+FILETYPE 0x1L
+FILESUBTYPE 0x0L
+FILEVERSION 1, 0, 0, 0
+PRODUCTVERSION 1, 0, 0, 0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+     VALUE "CompanyName", "Software Corporation\000"
+     VALUE "FileDescription", "Finger protocol demo\000"
+     VALUE "FileVersion", "1.0.0.0\000"
+     VALUE "InternalName", "Finger protocol demo\000"
+     VALUE "LegalCopyright", "Copyright \251 2012 by Software Corp.\000"
+     VALUE "LegalTrademarks", "\000"
+     VALUE "OriginalFilename", "test.exe\000"
+     VALUE "ProductName", "Finger protocol demo\000"
+     VALUE "ProductVersion", "1.0.0.0\000"
+     VALUE "Comments", "\000"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
+
+MAINICON ICON "application.ico"
